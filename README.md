@@ -1,2 +1,2 @@
 # PredPol
-open crime_analysis
+open criminality_sim
